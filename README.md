@@ -1,11 +1,11 @@
 # Portfolio-Project
  estreating Personal Portfolio
 
-## Languajes
+## Languages
 - HTML
 - CSS
 
-## Futures Updates
+## Futures Features
 - JavaScript
 - PHP?
 
